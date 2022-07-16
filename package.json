@@ -1,0 +1,25 @@
+{
+  "name": "odin-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-holdener/odin-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-holdener/odin-testing/issues"
+  },
+  "homepage": "https://github.com/eric-holdener/odin-testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6"
+  },
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
